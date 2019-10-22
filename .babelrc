@@ -1,0 +1,14 @@
+{
+    "presets": ["env", "react", "stage-2"],
+    "plugins": [
+        "transform-object-assign",
+        "lodash",
+        ["module-resolver", {
+            "root": ["."],
+            "alias": {
+                "react": "preact-compat",
+                "react-dom": "preact-compat"
+            }
+        }]
+    ]
+}
