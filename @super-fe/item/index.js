@@ -5,9 +5,9 @@ import Imgleft from "../imgleft";
 
 const Item = () => (
     <header>
-        <h1>Preact Item</h1>
+        <h1>Preact Item Components</h1>
         <Imgleft />
-        <h2>我是测试文案</h2>
+        <h2>Item 组件里的文案</h2>
         <Textright />
     </header>
 );
