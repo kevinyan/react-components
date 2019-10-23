@@ -1,4 +1,4 @@
-import style from "./style.css";
+import style from "./style.less";
 import React from "react";
 
 const Text = () => (
