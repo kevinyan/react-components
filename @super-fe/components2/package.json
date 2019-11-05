@@ -1,5 +1,5 @@
 {
-    "name": "components2",
+    "name": "@keelvin/components2",
     "version": "0.0.12",
     "description": "",
     "main": "index.js",
@@ -11,5 +11,6 @@
     "license": "ISC",
     "publishConfig": {
         "access": "public"
-    }
+    },
+    "gitHead": "87f271783a09cd07fd1d58228f879a350ab73dd9"
 }
