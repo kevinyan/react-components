@@ -1,13 +1,15 @@
 {
-  "name": "components2",
-  "version": "0.0.11",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "gitHead": "0f0296f1e3249ac559218c4a1e7ac17df0e7744e"
+    "name": "components2",
+    "version": "0.0.11",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "publishConfig": {
+        "access": "public"
+    }
 }
