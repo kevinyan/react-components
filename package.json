@@ -9,7 +9,7 @@
         "preact-compat": "3.18.4"
     },
     "publishConfig": {
-        "access": "@keelvin/components",
+        "access": "public",
         "registry": "https://registry.npmjs.org",
         "tag": "keelvin-test"
     }
