@@ -1,6 +1,8 @@
 {
-    "packages": ["@super-fe/*"],
-    "version": "0.0.7",
+    "packages": [
+        "@super-fe/*"
+    ],
+    "version": "0.0.8",
     "command": {
         "publishConfig": {
             "access": "@keelvin/components",
