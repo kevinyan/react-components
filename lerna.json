@@ -1,5 +1,10 @@
 {
     "packages": ["@super-fe/*"],
     "version": "independent",
-    "command": {}
+    "command": {
+        "publish": {
+            "scope": "@keelvin",
+            "registry": "https://registry.npmjs.org/"
+        }
+    }
 }
