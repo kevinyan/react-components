@@ -7,10 +7,5 @@
         "lerna": "^3.18.1",
         "preact": "7.2.1",
         "preact-compat": "3.18.4"
-    },
-    "publishConfig": {
-        "access": "public",
-        "registry": "https://registry.npmjs.org",
-        "tag": "keelvin-test"
     }
 }

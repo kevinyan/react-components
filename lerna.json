@@ -1,6 +1,11 @@
 {
-  "packages": [
-    "@super-fe/*"
-  ],
-  "version": "0.0.7"
+    "packages": ["@super-fe/*"],
+    "version": "0.0.7",
+    "command": {
+        "publishConfig": {
+            "access": "@keelvin/components",
+            "registry": "https://registry.npmjs.org",
+            "tag": "keelvin-test"
+        }
+    }
 }
