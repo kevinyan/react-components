@@ -1,8 +1,8 @@
 import style from "./index.less";
 import React from "react";
-import Textright from "../textright02";
-import Imgleft from "../imgleft02";
-import con from "../static/common";
+import Textright from "../components2-text";
+import Imgleft from "../components2-img";
+import con from "../components0-common";
 con();
 const Item02 = () => (
     <header>

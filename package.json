@@ -5,8 +5,8 @@
     "license": "MIT",
     "scripts": {},
     "devDependencies": {
+        "lerna": "^3.18.1",
         "preact": "7.2.1",
         "preact-compat": "3.18.4"
-    },
-    "dependencies": {}
+    }
 }
